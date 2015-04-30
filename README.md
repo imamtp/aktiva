@@ -1,2 +1,2 @@
 # aktiva
-Aktiva Cloud Accounting
+Aktiva Cloud Accounting for Small Medium Enterprise
